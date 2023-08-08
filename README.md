@@ -7,8 +7,8 @@ This repo Contain tasks for team A2 at The Embedded Linux Diploma
 
 #Team Members:
 
-    -Amr Wahba                    //Github Amr1Wahba
+    -Amr Wahba                    //Github --> Amr1Wahba
     -Keroles Mekhael
-    -Omar
+    -Omar  Ahmed Abdelatif
     -Yousef Kamal 
-    -Yasser                        
+    -Yasser Saeed Hassan                       
